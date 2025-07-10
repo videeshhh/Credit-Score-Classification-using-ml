@@ -35,7 +35,7 @@ A machine learning-based web app that predicts a user's financial risk score bas
 - Preprocessing: Null removal, outlier handling, normalization
 - Feature Engineering: Correlation checks, scaling
 - Model trained on preprocessed data, not updated in real-time
-
+- Giving us 75% Accuracy.
 ---
 
 ##  Visual Output
