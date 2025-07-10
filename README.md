@@ -51,7 +51,7 @@ A machine learning-based web app that predicts a user's financial risk score bas
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Flask / Streamlit (for UI)
+- Flask 
 - Matplotlib / Plotly for visualization
 
 ---
