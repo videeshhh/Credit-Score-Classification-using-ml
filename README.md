@@ -60,6 +60,6 @@ Run in termninal "Flask run" Voila your web page will be hosted locally.
 
 ---
 #Preview of page
-![image alt](https://github.com/Vaman223/Credit-Score-Classification-using-ml/blob/main/Screenshot%202025-06-29%20163950.png?raw=true)
-![image alt](https://github.com/Vaman223/Credit-Score-Classification-using-ml/blob/main/Screenshot%202025-06-29%20163956.png?raw=true)
+![image alt](https://github.com/videeshhh/Credit-Score-Classification-using-ml/blob/main/Screenshot%202025-07-10%20124133.png?raw=true)
+![image alt]
 
