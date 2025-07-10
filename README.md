@@ -42,7 +42,6 @@ A machine learning-based web app that predicts a user's financial risk score bas
 
 - Displays prediction along with user-specific indicators
 - Graphs generated with Matplotlib/Seaborn
-- API is used (like Spotify or others) to pull relevant visual assets dynamically (no music playback)
 
 ---
 
